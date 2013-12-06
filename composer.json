@@ -1,0 +1,13 @@
+{
+    "name": "devCrossNet/Bootstrap-Simple-Uploadform",
+    "description": "This is a simple upload form for twitters bootstrap 3, it's all written in javascript.",
+    "homepage": "http://www.devcross.net/JsComponents/Uploadform/example/",
+    "authors": [{
+        "name": "Johannes Werner",
+        "email": "johannes.werner86@gmail.com"
+    }],
+    "support": {
+        "issues": "https://github.com/devCrossNet/Bootstrap-Simple-Uploadform/issues"
+    },
+    "license": "Apache-2.0"
+}

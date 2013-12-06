@@ -1,0 +1,40 @@
+{
+    "name": "Bootstrap-Simple-Uploadform",
+    "description": "This is a simple upload form for twitters bootstrap 3, it's all written in javascript.",
+    "version": "1.0.0",
+    "homepage": "http://www.devcross.net/JsComponents/Uploadform/example/",
+    "author": "Johannes Werner",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/devCrossNet/Bootstrap-Simple-Uploadform.git"
+    },
+    "bugs": {
+        "url": "https://github.com/devCrossNet/Bootstrap-Simple-Uploadform/issues"
+    },
+    "licenses": [
+        {
+            "type": "Apache-2.0",
+            "url": "http://www.apache.org/licenses/LICENSE-2.0"
+        }
+    ],
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-contrib-compress": "~0.5.0",
+        "grunt-contrib-uglify": "~0.2.4",
+        "grunt-contrib-cssmin": "~0.7.0",
+        "grunt-contrib-copy": "~0.4.1"
+    },
+    "jspm": {
+        "main": "js/Bootstrap-Simple-Uploadform",
+        "directories": { "lib": "dist" },
+        "shim": {
+            "js/Bootstrap-Simple-Uploadform": {
+                "imports": "jquery"
+                , "exports": "$"
+            }
+        },
+        "buildConfig": {
+            "uglify": true
+        }
+    }
+}
