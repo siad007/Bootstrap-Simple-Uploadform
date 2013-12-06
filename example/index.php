@@ -38,6 +38,7 @@
             <li><a href="#javascript">Javascript</a></li>
             <li><a href="#options">Options</a></li>
             <li><a href="../Bootstrap-Simple-Uploadform.zip">Download</a></li>
+            <li><a href="https://github.com/devCrossNet/Bootstrap-Simple-Uploadform">GitHub Project</a></li>
         </ul>
     </div>
     <!-- /.navbar-collapse -->
