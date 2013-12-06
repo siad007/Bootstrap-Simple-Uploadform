@@ -98,7 +98,7 @@ This is a simple upload form for twitters bootstrap 3, it's all written in javas
 
 Two quick start options are available:
 
-* [Download the latest release](http://devcross.net/JsComponents/Uploadform/Bootstrap-Simple-Uploadform.zip).
+* [Download the latest release](https://github.com/devCrossNet/Bootstrap-Simple-Uploadform/archive/master.zip).
 * Clone the repo: `git clone https://github.com/devCrossNet/Bootstrap-Simple-Uploadform.git`.
 
 ## Versioning
